@@ -14,7 +14,7 @@
 
 
 ## InterValue用Java语言实现标准的Merkle tree
-源代码已经发布在：[github](https://github.com/intervalue/intervalue-2.0.0-mainnet-rtm/tree/master/localfullnode2/src/main/java/one/inve/localfullnode2/utilities/merkle "merkle tree")
+源代码位于：[github.com/intervalue项目](https://github.com/intervalue/intervalue-2.0.0-mainnet-rtm/tree/master/localfullnode2/src/main/java/one/inve/localfullnode2/utilities/merkle "merkle tree")
 
 
 ## Merkle tree怎样应用到InterValue结点校验数据区块中
